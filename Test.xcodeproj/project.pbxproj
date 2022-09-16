@@ -45,7 +45,7 @@
 		0A4A07AD28D2838E00CEA320 = {
 			isa = PBXGroup;
 			children = (
-				0A4A07B828D2838E00CEA320 /* Test */,
+				0A4A07B828D2838E00CEA320 /* StreamingService */,
 				0A4A07B728D2838E00CEA320 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0A4A07B828D2838E00CEA320 /* Test */ = {
+		0A4A07B828D2838E00CEA320 /* StreamingService */ = {
 			isa = PBXGroup;
 			children = (
 				0A6140AA28D37B40001CDA9C /* Resources */,
@@ -66,7 +66,7 @@
 				0A6140A828D37B34001CDA9C /* Core */,
 				0A4A07BF28D2838F00CEA320 /* Preview Content */,
 			);
-			path = Test;
+			path = StreamingService;
 			sourceTree = "<group>";
 		};
 		0A4A07BF28D2838F00CEA320 /* Preview Content */ = {
